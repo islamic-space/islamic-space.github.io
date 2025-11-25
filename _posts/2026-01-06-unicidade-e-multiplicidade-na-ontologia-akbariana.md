@@ -30,6 +30,8 @@ Este artigo integra a série **"Introdução à Cosmologia Sufi segundo Ibn ʿAr
 
 [/guia-da-serie-cosmologia-sufi-ibn-arabi/](/guia-da-serie-cosmologia-sufi-ibn-arabi/)
 
+Como este texto trabalha termos técnicos de ontologia (como *wahdat al-wujūd*, *aʿyān thābita* etc.), pode ser útil manter aberto o **[Glossário de Termos da Cosmologia Sufi segundo Ibn ʿArabī](/glossario-cosmologia-sufi-ibn-arabi/)** enquanto você lê.
+
 ---
 
 # 5. Unicidade e Multiplicidade: A Ontologia Akbariana da Existência

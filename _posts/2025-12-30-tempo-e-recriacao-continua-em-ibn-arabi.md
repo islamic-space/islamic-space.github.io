@@ -30,6 +30,8 @@ Este artigo integra a série **"Introdução à Cosmologia Sufi segundo Ibn ʿAr
 
 [/guia-da-serie-cosmologia-sufi-ibn-arabi/](/guia-da-serie-cosmologia-sufi-ibn-arabi/)
 
+Se algum conceito de tempo, expressão árabe ou termo técnico aparecer de forma densa, você pode recorrer ao **[Glossário de Termos da Cosmologia Sufi segundo Ibn ʿArabī](/glossario-cosmologia-sufi-ibn-arabi/)**, que acompanha esta série como material de apoio.
+
 ---
 
 # 4. O Tempo em Ibn ʿArabī: Dias Divinos, Instantes e a Recriação Contínua

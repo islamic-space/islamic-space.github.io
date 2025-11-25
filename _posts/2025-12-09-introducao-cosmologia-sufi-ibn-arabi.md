@@ -29,6 +29,8 @@ Este artigo integra a série **"Introdução à Cosmologia Sufi segundo Ibn ʿAr
 
 [/guia-da-serie-cosmologia-sufi-ibn-arabi/](/guia-da-serie-cosmologia-sufi-ibn-arabi/)
 
+Se algum termo técnico, árabe ou expressão específica não estiver claro durante a leitura, você pode recorrer ao **[Glossário de Termos da Cosmologia Sufi segundo Ibn ʿArabī](/glossario-cosmologia-sufi-ibn-arabi/)**, que reúne explicações rápidas sobre os principais conceitos usados na série.
+
 ---
 
 # 1. Introdução à Cosmologia Científica e à Cosmologia Islâmica Sufi segundo Ibn ʿArabī
@@ -59,7 +61,7 @@ A cosmologia científica contemporânea considera o universo como **um sistema f
 
 Do ponto de vista histórico, duas grandes revoluções moldaram nosso entendimento atual:
 
-1. **A Teoria da Relatividade Geral**Formulada por Einstein em 1915, ela descreve o espaço e o tempo não mais como "palcos vazios" onde os fatos acontecem, mas como **um tecido geométrico dinâmico (espaço-tempo)** capaz de se curvar na presença de matéria e energia. A gravidade deixa de ser uma força no sentido clássico e passa a ser interpretada como **curvatura do espaço-tempo**.
+1. **A Teoria da Relatividade Geral** Formulada por Einstein em 1915, ela descreve o espaço e o tempo não mais como "palcos vazios" onde os fatos acontecem, mas como **um tecido geométrico dinâmico (espaço-tempo)** capaz de se curvar na presença de matéria e energia. A gravidade deixa de ser uma força no sentido clássico e passa a ser interpretada como **curvatura do espaço-tempo**.
 
    Entre as consequências dessa visão estão:
 

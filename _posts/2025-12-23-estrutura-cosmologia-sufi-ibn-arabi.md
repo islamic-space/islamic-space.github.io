@@ -29,6 +29,8 @@ Este artigo integra a série **"Introdução à Cosmologia Sufi segundo Ibn ʿAr
 
 [Guia da Série](/guia-da-serie-cosmologia-sufi-ibn-arabi/)
 
+Para facilitar a leitura dos termos árabes e dos conceitos técnicos aqui apresentados, você pode contar com o **[Glossário de Termos da Cosmologia Sufi segundo Ibn ʿArabī](/glossario-cosmologia-sufi-ibn-arabi/)**, que reúne definições breves e etimologias básicas.
+
 ---
 
 # 3. Estrutura da Cosmologia Sufi segundo Ibn ʿArabī
