@@ -3,7 +3,8 @@
   {% if page.id %}
   <div class="widget widget-recent">
     <h3 class="widget-title">Recent Posts</h3>
-    {% for post in site.posts limit:4 %}
+    {% assign published_posts = site.posts | where_exp: "post", "post.date <= site.time" %}
+    {% for post in published_posts limit:4 %}
     <div class="recent-posts">
       {% if post.image %}
       <div class="recent-header">
