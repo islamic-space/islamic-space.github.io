@@ -28,6 +28,8 @@ lang: pt-BR
 
 Esta série de artigos é fruto de um estudo maior sobre **Introdução à Cosmologia Científica e à Cosmologia Islâmica Sufi segundo Ibn ʿArabī**, publicado originalmente como um único texto extenso aqui no Islamic Space. Para facilitar a leitura, o conteúdo foi dividido e **aprimorado** em capítulos temáticos, cada um aprofundando um aspecto específico da cosmologia akbariana em diálogo com a cosmologia científica moderna.
 
+Se, ao longo da leitura, algum termo técnico ou expressão árabe não estiver claro, você pode consultar o **[Glossário de Termos da Cosmologia Sufi segundo Ibn ʿArabī](/glossario-cosmologia-sufi-ibn-arabi/)**, preparado especialmente como apoio para esta série.
+
 Em cada artigo da série você encontrará, logo na introdução, a referência a esta coleção de textos, lembrando que **todos eles derivam de um mesmo estudo de base**, ampliado com comentários, exemplos e conexões espirituais.
 
 ### Como está organizada a série

@@ -30,6 +30,8 @@ Este artigo integra a série **"Introdução à Cosmologia Sufi segundo Ibn ʿAr
 
 [Guia da Série](/guia-da-serie-cosmologia-sufi-ibn-arabi/)
 
+Caso algum termo técnico da cosmologia, expressão árabe ou conceito sufi apareça como novidade, você pode consultar o **[Glossário de Termos da Cosmologia Sufi segundo Ibn ʿArabī](/glossario-cosmologia-sufi-ibn-arabi/)**, que acompanha esta série.
+
 ---
 
 # 2. Fundamentos da Cosmologia Científica Moderna
