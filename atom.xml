@@ -22,7 +22,8 @@ limit: 25
 			{% if site.owner.email %}<email>{{ site.owner.email }}</email>{% endif %}
 		</author>
 
-    {% for post in site.posts limit: page.limit %}
+    {% assign published_posts = site.posts | where_exp: "post", "post.date <= site.time" %}
+    {% for post in published_posts limit: page.limit %}
     <entry>
         <title>{{ post.title | xml_escape }}</title>
         <link href="{{ base }}{{ post.url }}"/>
