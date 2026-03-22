@@ -25,14 +25,13 @@ tags:
 summary: "Os pilares do Islã não são apenas ritos: são um mapa de crença, disciplina, ética social e unidade da Ummah."
 lang: pt-BR
 ---
-
 ## Introdução: por que “pilares”?
 
 No Islã, os **cinco pilares** são chamados assim porque sustentam, na prática, a vida religiosa do muçulmano. Eles não são “cinco ideias abstratas” ou “cinco costumes culturais”: são **atos de adoração** (*ibadah*) que organizam o dia, o corpo, o coração, o dinheiro e a orientação de vida.
 
 A formulação clássica é conhecida por um hadith amplamente aceito e citado na tradição: **“O Islã foi construído sobre cinco”**, e então são listados:
 
-- a testemunha de fé (Chahada)
+- o testemunho de fé (Chahada)
 - as orações (Salat)
 - a caridade obrigatória (Zakat)
 - o jejum do Ramadã (Saum)
