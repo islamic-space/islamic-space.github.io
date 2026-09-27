@@ -1,15 +1,17 @@
 ---
 layout: default
 ---
+{% if page.image and page.image != "" %}
 <div class="container">
 	<div class="row">
 		<div class="col col-12">
-			<div class="post-image-box">
-				<div class="post-image" style="background-image: url({{"/assets/images/" | prepend: site.baseurl | append : page.image}})"></div>
-			</div>
+			<figure class="post-image-box">
+				<img class="post-image" src="{{ "/assets/images/" | prepend: site.baseurl | append: page.image }}" alt="{{ page.image_alt | default: page.title | escape }}" width="1600" height="800" loading="eager" fetchpriority="high">
+			</figure>
 		</div>
 	</div>
 </div>
+{% endif %}
 
 <div class="container">
 	<div class="row">

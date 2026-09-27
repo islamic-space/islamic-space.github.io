@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/mundo-imaginal.jpg
 title: "O Mundo Imaginal e sua Função no Cosmos segundo Ibn ʿArabī"
 date: 2026-01-20 10:00:00 -0300
 seo_title: "O Mundo Imaginal e sua Função no Cosmos em Ibn ʿArabī"

@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/unicidade-multiplicidade.jpg
 title: "Unicidade e Multiplicidade na Ontologia Akbariana da Existência"
 date: 2026-01-06 10:00:00 -0300
 seo_title: "Unicidade e Multiplicidade em Ibn ʿArabī: A Ontologia Akbariana da Existência"

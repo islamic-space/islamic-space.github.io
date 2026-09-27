@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/confianca-reputacao-ummah.jpg
 title: "Confiança e Reputação na Ummah"
 date: 2025-11-01 10:00:00 -0300
 seo_title: "Confiança e Reputação na Ummah: O Valor da Honra e da Ética Islâmica no Mundo Digital"

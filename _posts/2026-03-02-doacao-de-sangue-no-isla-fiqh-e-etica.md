@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/doacao-sangue.jpg
 title: "Doação de Sangue no Islã: salvar vidas, ética e critérios práticos (com um paralelo respeitoso com outras religiões)"
 date: 2026-02-04 23:05:00 -0300
 seo_title: "Doação de sangue no Islã: evidências no Alcorão e hadith, regras práticas e paralelo com outras religiões"

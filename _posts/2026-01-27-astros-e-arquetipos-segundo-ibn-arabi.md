@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/astros-arquetipos.jpg
 title: "Astros e Arquétipos segundo Ibn ʿArabī"
 date: 2026-01-27 10:00:00 -0300
 seo_title: "A Relação entre Astros e Arquétipos segundo Ibn ʿArabī"

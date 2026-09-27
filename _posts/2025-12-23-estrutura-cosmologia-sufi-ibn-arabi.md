@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/estrutura-cosmologia-sufi.jpg
 title: "Estrutura da Cosmologia Sufi segundo Ibn ʿArabī"
 date: 2025-12-23 10:00:00 -0300
 seo_title: "Estrutura da Cosmologia Sufi segundo Ibn ʿArabī: Níveis da Realidade e Mundo Imaginal"

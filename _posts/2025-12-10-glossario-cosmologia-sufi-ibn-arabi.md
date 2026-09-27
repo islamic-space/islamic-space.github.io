@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/glossario-cosmologia-sufi.jpg
 title: "Glossário de Termos da Cosmologia Sufi segundo Ibn ʿArabī"
 date: 2025-12-10 10:00:00 -0300
 seo_title: "Glossário de Cosmologia Sufi de Ibn ʿArabī"

@@ -1,6 +1,6 @@
-
 ---
 layout: post
+image: posts/introducao-cosmologia-sufi-completa.jpg
 title: "Introdução à Cosmologia Científica e à Cosmologia Islâmica Sufi segundo Ibn ʿArabī"
 date: 2025-11-25 10:00:00 -0300
 seo_title: "Introdução à Cosmologia Científica e à Cosmologia Sufi segundo Ibn ʿArabī"

@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/dialogo-filosofos.jpg
 title: "Ibn ʿArabī em Diálogo com Platão, Plotino e Suhrawardī"
 date: 2026-02-17 10:00:00 -0300
 seo_title: "Estudos Comparativos: Ibn ʿArabī, Platão, Plotino e Suhrawardī"
