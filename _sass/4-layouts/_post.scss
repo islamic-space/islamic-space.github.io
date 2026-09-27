@@ -196,9 +196,14 @@
   }
   .post-head {
     .post-title {
-      background-color: #000000c2;
+      padding: 14px 20px;
+      color: $white;
+      background-color: $black;
+      height: auto;
       font-size: 43px;
-      line-height: 43px;
+      line-height: 1.2;
+      overflow-wrap: anywhere;
+      hyphens: auto;
       margin-bottom: 10px;
     }
   }
