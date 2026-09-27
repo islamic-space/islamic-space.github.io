@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/cinco-pilares.jpg
 title: "Os 5 Pilares da Fé Islâmica: fundamento, história e sentido espiritual"
 date: 2026-02-11 12:00:00 -0300
 seo_title: "Os 5 pilares do Islã: Chahada, Salat, Zakat, Saum (Ramadã) e Hajj — explicação didática"

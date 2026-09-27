@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/cosmologia-astral.jpg
 title: "Cosmologia Astral Tradicional e o Zodíaco Metafísico"
 date: 2026-02-10 10:00:00 -0300
 seo_title: "Cosmologia Astral Tradicional e o Zodíaco Metafísico em Perspectiva Sufi"

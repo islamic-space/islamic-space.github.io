@@ -5,7 +5,7 @@ author: "Hamid Zarrabi-Zadeh"
 translator: "Carlos Delfino"
 date:   2019-07-20 12:00:00 -0300
 tags: [App, Orações, Cálculos, Matemática, Fajr, Sunrise, Dhuhr, Asr, Sunset, Maghrib, Isha, Midnight ]
-image: bismila.png
+image: posts/calculo-horarios-oracao.jpg
 categories: ["App","Islamic App", Cálculos]
 ---
 
@@ -164,4 +164,4 @@ As fórmulas acima descritas são implementadas completamente e podem ser obtida
 * [Approximate Solar Coordinates](http://aa.usno.navy.mil/faq/docs/SunApprox.php), by U.S. Naval Observatory.
 * [The Islamic Prayer Times](http://www.jas.org.jo/muneer/), by Professor Tariq Muneer.
 * Wikipedia, the free encyclopedia.
-* [Islamic Works Apps](http/islamic-works.github.io/) 
+* [Islamic Works Apps](http/islamic-works.github.io/)

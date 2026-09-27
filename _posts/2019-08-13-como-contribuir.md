@@ -4,7 +4,7 @@ title:  "Como Contribuir com o Projeto"
 author: "Carlos Delfino"
 date:   2019-08-10 16:00 -0300
 tags: [Contribuir, financeiro, voluntário, App, Orações, Cálculos, Nascer do Sol, Pôr do Sol, Horário, Fajr, Sunrise, Dhuhr, Asr, Sunset, Maghrib, Isha, Midnight, Firebase ]
-image: bismila.png
+image: posts/como-contribuir.jpg
 categories: ["App","Islamic App", contribut]
 ---
 

@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Os Meses Islâmicos"
+date: 2019-09-02
+image: posts/meses-islamicos.jpg
+---
+
 Muharram
 It is the very first month in Islamic time schedule. The literal meaning of Muharram is “Forbidden”. It has always been well thought-out as a holy period in which Arabs used to avoid fighting with each other. It consists of a particular date, i.e. 10th on which many historical happenings occurs including paving way between the Red Sea for Bani Israel by Allah Almighty and destruction of Firaon (Pharaoh), which is why the Apostle (PBUH) of God started fasting and directed other Muslims to do so and showed Jews that Musa (A.S) is dearer to us Muslims than others.
 

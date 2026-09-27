@@ -5,7 +5,7 @@ author: "Hamid Zarrabi-Zadeh"
 translator: "Carlos Delfino"
 date:   2019-07-20 11:59:00 -0300
 tags: [App, Orações, Cálculos, Nascer do Sol, Pôr do Sol, Horário, Fajr, Sunrise, Dhuhr, Asr, Sunset, Maghrib, Isha, Midnight ]
-image: bismila.png
+image: posts/calculo-dhur.jpg
 categories: ["App","Islamic App", Cálculos]
 ---
 

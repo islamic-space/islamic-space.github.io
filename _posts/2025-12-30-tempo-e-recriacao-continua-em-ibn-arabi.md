@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/tempo-recriacao-cosmo.jpg
 title: "O Tempo em Ibn ʿArabī e a Recriação Contínua do Cosmos"
 date: 2025-12-30 10:00:00 -0300
 seo_title: "O Tempo em Ibn ʿArabī e a Doutrina da Recriação Contínua (Tajdīd al-Khalq)"

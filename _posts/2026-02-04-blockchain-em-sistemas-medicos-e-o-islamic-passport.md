@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/blockchain-medico.jpg
 title: "Blockchain em Sistemas Médicos: Estratégia, Limites e um Paralelo com o Islamic Passport"
 date: 2026-02-04 21:18:00 -0300
 seo_title: "Blockchain em sistemas médicos: integridade, consentimento e trilhas de auditoria — e o paralelo com o Islamic Passport"

@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/zakat-sadaqah.jpg
 title: "Zakat e Sadaqah: obrigação, generosidade e justiça social — e por que apoiar projetos da Ummah"
 date: 2026-02-18 23:10:00 -0300
 seo_title: "Zakat e Sadaqah: diferenças, origem histórica, finalidade social e como fortalecer a Ummah"
