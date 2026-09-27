@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/guia-cosmologia-sufi.jpg
 title: "Guia da Série: Introdução à Cosmologia Sufi segundo Ibn ʿArabī"
 date: 2025-12-02 10:00:00 -0300
 seo_title: "Guia da Série sobre Cosmologia Sufi de Ibn ʿArabī e Cosmologia Científica"

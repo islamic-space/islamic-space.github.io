@@ -3,7 +3,7 @@ layout: post
 title:  "Islamic App - Testes Iniciados"
 date:   2019-07-15 18:08:43 -0300
 tags: [App, Orações, Cálculos, Glossário, RSS]
-image: bismila.png
+image: posts/islamic-app-testes.jpg
 categories: ["App","Islamic App"]
 ---
 

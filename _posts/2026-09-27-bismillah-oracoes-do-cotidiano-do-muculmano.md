@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/bismillah-cotidiano.jpg
 title: "Bismillah em cada momento: as orações do cotidiano do muçulmano"
 date: 2026-09-27 12:00:00 -0300
 seo_title: "Bismillah e as invocações do cotidiano do muçulmano — árabe, transliteração, tradução e explicação"

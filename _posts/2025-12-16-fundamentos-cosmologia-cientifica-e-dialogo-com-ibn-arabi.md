@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/fundamentos-cosmologia-cientifica.jpg
 title: "Fundamentos da Cosmologia Científica Moderna e o Diálogo com Ibn ʿArabī"
 date: 2025-12-16 10:00:00 -0300
 seo_title: "Fundamentos da Cosmologia Científica Moderna em Diálogo com a Cosmologia Sufi de Ibn ʿArabī"

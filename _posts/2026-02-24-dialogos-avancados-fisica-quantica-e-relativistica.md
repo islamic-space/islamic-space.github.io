@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/fisica-quantica-relatividade.jpg
 title: "Diálogos Avançados entre a Física Quântica, a Relatividade e Ibn ʿArabī"
 date: 2026-02-24 10:00:00 -0300
 seo_title: "Física Quântica, Relatividade e Ibn ʿArabī: Diálogos Avançados"

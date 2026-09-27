@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/oracao-espaco.jpg
 title: "A Oração na Era da Exploração Espacial: Qibla, Horários e Responsabilidade" 
 date: 2026-02-04 22:10:00 -0300
 seo_title: "A oração na era da exploração espacial: qibla, horários e o debate jurídico sobre missões sem retorno"

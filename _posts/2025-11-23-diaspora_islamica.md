@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/diaspora-islamica.jpg
 title: "A Diáspora Islâmica: Uma Jornada Através do Tempo e do Espaço"
 date: 2025-11-23 12:00:00 -0300
 seo_title: "Diáspora Islâmica: História, Idade Média e Estatísticas Atuais"
@@ -64,4 +65,3 @@ A diáspora islâmica é um testemunho da resiliência e da universalidade da me
 Os desafios de hoje – islamofobia, assimilação cultural e crises humanitárias – são reais, mas a história mostra que a Ummah possui uma capacidade extraordinária de adaptação. Mais do que uma dispersão geográfica, a diáspora representa a oportunidade de construir pontes de entendimento entre civilizações. Ao viverem sua fé com integridade e excelência em todos os cantos do globo, os muçulmanos da diáspora cumprem um papel vital: serem embaixadores de uma religião de paz, justiça e misericórdia para toda a humanidade.
 
 Assim, a história da diáspora não é sobre "perder-se" no mundo, mas sobre encontrar a Deus em todos os lugares, reafirmando que a terra de Allah é vasta e que a verdadeira pátria do crente é a sua conexão com o Criador.
-

@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/hipocrisia-religiosa.jpg
 title: "Hipocrisia Religiosa e Tratamento Diferenciado no Islã: riyā', nifāq, ribā e as relações entre muçulmanos e não-muçulmanos"
 date: 2026-03-13 15:00:00 -0300
 seo_title: "Hipocrisia no Islã: ostentação espiritual (riyā'), hipocrisia (nifāq), juros (ribā) e o tratamento entre muçulmanos e não-muçulmanos"

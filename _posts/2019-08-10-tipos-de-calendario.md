@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Tipos de Calendário"
+date: 2019-08-10
+image: posts/tipos-calendario.jpg
+---
+
 Calendário Gregoriano
 
 O Calendário Gregoriano foi promulgado pelo Papa Gregório XIII, em fevereiro de 1582. O marco inicial é o nascimento de Jesus Cristo, no ano 0 a.C. O uso internacional deste calendário não tem motivações religiosas. Como a Europa era a maior exportadora de cultura na Idade Média, convencionou-se usar a marcação de dias estabelecida no Vaticano para facilitar o relacionamento entre as nações. É um calendário solar, ou seja, leva em consideração o ciclo solar. Como o ciclo solar tem 365 e 6 horas, estas horas que “sobram” são acumuladas por quatro anos até serem suficientes para acrescentar um dia num ano, o chamado ano bissexto, que tem 366 dias.

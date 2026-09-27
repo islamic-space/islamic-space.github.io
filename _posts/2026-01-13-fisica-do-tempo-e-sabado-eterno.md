@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/fisica-tempo-sabado-eterno.jpg
 title: "A Física do Tempo e o Sábado Eterno em Ibn ʿArabī"
 date: 2026-01-13 10:00:00 -0300
 seo_title: "A Física do Tempo e o Sábado Eterno em Ibn ʿArabī: Diálogos entre Cosmologia Sufi e Ciência"

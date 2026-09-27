@@ -1,5 +1,6 @@
 ---
 layout: post
+image: posts/futuhat-makkiyya.jpg
 title: "Uma Visão de Conjunto da Obra Futūḥāt al-Makkiyya"
 date: 2026-02-03 10:00:00 -0300
 seo_title: "Futūḥāt al-Makkiyya de Ibn ʿArabī: Estrutura, Temas e Caminhos de Leitura"
